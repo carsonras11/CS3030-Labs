@@ -1,0 +1,1 @@
+You shouldn't use shell=True with an input command because the shell can read that as a real command and execute it. An attacker could add a completely different command in order to get access to sensitive information. Using a list of arguments is safer because the input is read as normal text.
