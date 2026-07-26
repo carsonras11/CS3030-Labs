@@ -1,0 +1,10 @@
+[Unit]
+Description=System Monitor
+
+[Service]
+ExecStart=/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section1/.venv/bin/python3 -u /home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py
+Restart=always
+User=carsonras2
+
+[Install]
+WantedBy=multi-user.target

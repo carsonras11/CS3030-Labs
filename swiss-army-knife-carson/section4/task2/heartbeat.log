@@ -1,0 +1,72 @@
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/carsonras2/CS3030-Labs/swiss-army-knife-carson/section4/task1/monitor.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+2026-07-25 20:41:02
+CPU Usage: 0.1 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:42:02
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:43:02
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:44:02
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:45:02
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:46:02
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:47:03
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:48:02
+CPU Usage: 0.0 %
+Available RAM: 3.27 GB
+Disk Usage: 0.3 %
+2026-07-25 20:49:02
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
+2026-07-25 20:50:03
+CPU Usage: 0.0 %
+Available RAM: 3.26 GB
+Disk Usage: 0.3 %
