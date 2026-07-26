@@ -1,0 +1,3 @@
+Date,Error Type,Message
+2026-05-02,NETWORK,Connection failed from 10.0.0.2
+2026-05-02,LOGIN,Login failed from 172.16.0.10
