@@ -1,0 +1,12 @@
+2026-07-28 02:04:20,450 - INFO - script started
+2026-07-28 02:04:20,450 - WARNING - secret is missing
+2026-07-28 02:04:20,450 - INFO - script finished
+2026-07-28 02:05:35,419 - INFO - script started
+2026-07-28 02:05:35,419 - ERROR - config.txt was not found
+2026-07-28 02:05:35,419 - INFO - script finished
+2026-07-28 02:06:37,735 - INFO - script started
+2026-07-28 02:06:37,735 - WARNING - config.txt is too large
+2026-07-28 02:06:37,735 - INFO - script finished
+2026-07-28 02:06:51,021 - INFO - script started
+2026-07-28 02:06:51,024 - INFO - backup made
+2026-07-28 02:06:51,024 - INFO - script finished
